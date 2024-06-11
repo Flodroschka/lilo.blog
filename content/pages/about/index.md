@@ -4,7 +4,7 @@ draft = false
 image = "racooooooooooon.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](racooooooooooon.jpg)
 
 ## Florin Brunner
 
